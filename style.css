@@ -23,6 +23,10 @@ input, button {
     background: none;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
+
+.submit:hover{
+    background: #d5a055;
+}
 .tip {
     font-size: 20px;
     margin: 40px auto 50px;
